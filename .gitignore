@@ -13,6 +13,10 @@ credentials*.json
 .npmrc
 .pypirc
 node_modules/
+dist/
+.shots/
+.tmp-*/
+tmp-*.ts
 __pycache__/
 .venv/
 venv/
